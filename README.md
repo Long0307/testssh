@@ -1,1 +1,1 @@
-testssh
+testssh edit mycomputer long
